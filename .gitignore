@@ -40,8 +40,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Firebase local cache
-.firebase/
+
 
 # Firebase local cache
 .firebase/
